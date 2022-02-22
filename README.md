@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Svelte
+- 📫 How to reach me
+
+  Mail: js@qlax.de
+  
+  Discord: sonti#4793
+
+
 
 <!--
 **sontiO/sontiO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
